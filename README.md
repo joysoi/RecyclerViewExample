@@ -12,10 +12,10 @@ dependencies {
 }
 ```
 
-Define a model class as a data source
-Add a RecyclerView to your activity to display the items
-Create a XML layout to visualize the item
-Use RecyclerView.Adapter and ViewHolder to present the item
-Bind data to the adapter and populate the RecyclerView
+*Define a model class as a data source
+*Add a RecyclerView to your activity to display the items
+*Create a XML layout to visualize the item
+*Use RecyclerView.Adapter and ViewHolder to present the item
+*Bind data to the adapter and populate the RecyclerView
 
 
